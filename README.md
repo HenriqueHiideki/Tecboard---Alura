@@ -93,7 +93,7 @@ em qualquer navegador.
 Adicione aqui uma screenshot do projeto:
 
 ```md
-![Prévia do Projeto](imagens/preview.png)
+![Preview do Projeto](imagens/preview.png)
 
 ```
 
