@@ -89,11 +89,8 @@ em qualquer navegador.
 ---
 
 ## 📸 Preview
-
-Adicione aqui uma screenshot do projeto:
-
 ```md
-![Preview](imagens/preview.png)
+![Preview do Projeto](imagens/preview.png)
 
 ```
 
