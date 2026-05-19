@@ -89,7 +89,6 @@ em qualquer navegador.
 ---
 
 ## 📸 Preview
-md
 ![Preview do Projeto](imagens/preview.png)
 
 ---
