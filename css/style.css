@@ -1,13 +1,20 @@
 #h2_main{
-    color: blueviolet;
+    color: #9747FF;
     letter-spacing: 5px;
     font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Unbounded", sans-serif;
+    font-weight: bold;
 }
 
 #h2_main2{
-    color: white;
+    color: #FFFFFF;
     letter-spacing: 5px;
     font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Unbounded", sans-serif;
+    font-weight: bold;
+}
+
+p, a{
+    color: #FFFFFF;
+    font-family: "Poppins";
 }
